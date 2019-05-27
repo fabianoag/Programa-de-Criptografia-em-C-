@@ -1,0 +1,10 @@
+C:\Users\Fabiano2\Documents\Visual Studio 2015\Projects\Criptografia\Cryptography\bin\Debug\Cryptography.dll
+C:\Users\Fabiano2\Documents\Visual Studio 2015\Projects\Criptografia\Cryptography\bin\Debug\Cryptography.pdb
+C:\Users\Fabiano2\Documents\Visual Studio 2015\Projects\Criptografia\Cryptography\obj\Debug\Cryptography.csprojResolveAssemblyReference.cache
+C:\Users\Fabiano2\Documents\Visual Studio 2015\Projects\Criptografia\Cryptography\obj\Debug\Cryptography.dll
+C:\Users\Fabiano2\Documents\Visual Studio 2015\Projects\Criptografia\Cryptography\obj\Debug\Cryptography.pdb
+I:\Backup Windows 7\Documentos\Projects\Criptografia\Cryptography\bin\Debug\Cryptography.dll
+I:\Backup Windows 7\Documentos\Projects\Criptografia\Cryptography\bin\Debug\Cryptography.pdb
+I:\Backup Windows 7\Documentos\Projects\Criptografia\Cryptography\obj\Debug\Cryptography.csprojResolveAssemblyReference.cache
+I:\Backup Windows 7\Documentos\Projects\Criptografia\Cryptography\obj\Debug\Cryptography.dll
+I:\Backup Windows 7\Documentos\Projects\Criptografia\Cryptography\obj\Debug\Cryptography.pdb
