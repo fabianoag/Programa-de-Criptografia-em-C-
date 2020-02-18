@@ -15,4 +15,4 @@ o outro utilizar uma chave de criptografia que é a classe **'Cryptography'**, d
 
 Ilustração:
 
-![](https://user-images.githubusercontent.com/34901033/58561007-9a2ea280-81fc-11e9-9d86-e291e651fcbf.png?w=50)
+![](https://live.staticflickr.com/65535/49552280402_16e21c4876_z.jpg)
